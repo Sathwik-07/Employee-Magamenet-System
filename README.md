@@ -5,18 +5,27 @@
 This is a  console based stand alone  application and  it is not a  web application.I developed this  application using  Core Java with Java Database Connectivity(JDBC).
 
 # Features
+
 (1) Inserting the employee details 
+
 (2) Updating the employee details 
+
 (3) Deleting the employee details 
+
 (4) Displaying the employee details 
 
 # Important packages used in this Project
 
 (1) java.sql.Connection;
+
 (2) java.sql.DriverManager;
+
 (3) java.sql.PreparedStatement;
+
 (4) java.sql.ResultSet;
+
 (5) java.sql.SQLException;
+
 (6) java.util.Scanner;
 
 # Working of this Project
