@@ -1,4 +1,3 @@
-# Welcome to my Project!
 
 # Source code :
 
@@ -48,6 +47,29 @@ This is a  console based stand alone  application and  it is not a  web applicat
 
 
 ![Screenshot (196)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/71b76350-fe4a-4c47-a474-84815f2f0019)
+
+
+# (2) Updating the Employee details
+
+In this project I upadted the name and salary of the employee having id 200.
+
+Like this we can update the other employee details also
+
+![Screenshot (197)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/ff32ec69-3288-4975-b6ba-047c8a57e586)
+
+### Checking the Updated Employees details inside the database
+
+![Screenshot (198)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/4f7f232d-60b8-4581-bc8c-3e6256fd8497)
+
+
+
+
+
+
+
+
+
+
 
 
 
