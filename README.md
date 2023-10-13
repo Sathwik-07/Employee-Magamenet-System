@@ -97,15 +97,15 @@ Before connecting to the database we need to have the following details
 
 ### In this project Database configuration details are as follows
 
-(1) Port number : 3306
+### (1) Port number : 3306
 
-(2) Driver software url : jdbc:mysql://localhost:3306/employees 
+### (2) Driver software url : jdbc:mysql://localhost:3306/employees 
 
-(3) Database user name  : "root"
+### (3) Database user name  : "root"
 
-(4) Data base password  : sathwikdb7@@*
+### (4) Data base password  : sathwikdb7@@*
 
-(5) Database name : empployees
+### (5) Database name : empployees
 
 
 Inside the employees database i   have  a table named employee
