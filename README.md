@@ -91,6 +91,51 @@ Here you can see that employee details has been deleted successfully
 ![Screenshot (201)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/6fafba5e-1aae-4067-82a1-8b01eb7388c9)
 
 
+# How I Connected this Java application to database
+
+Before connecting to the database we need to have the following details 
+
+### In this project Database configuration details are as follows
+
+(1) Port number : 3306
+
+(2) Driver software url : jdbc:mysql://localhost:3306/employees 
+
+(3) Database user name  : "root"
+
+(4) Data base password  : sathwikdb7@@*
+
+(5) Database name : empployees
+
+
+Inside the employees database i   have  a table named employee
+
+
+Here are the following  Steps  to be followed
+
+### (1) Loading the driver software
+
+### (2) Creating the connection object
+
+### (3)  Creating the Statement object
+
+### (4) Executing the Query Statement
+
+### (5) Process the result
+
+### (6) Close the connection
+
+
+# Rub time Environment
+
+I used Eclipse IDE
+
+
+# Jar files
+
+I used Mysql Connector Jar file in this project
+
+
 
 
 
