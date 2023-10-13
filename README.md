@@ -62,6 +62,29 @@ Like this we can update the other employee details also
 ![Screenshot (198)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/4f7f232d-60b8-4581-bc8c-3e6256fd8497)
 
 
+# (3) Deleting the Employee details from the databse
+
+In this project we can delete the employees's details from the database based on their employee id.In this case i deleted the details of the employee having id as 300
+
+
+![Screenshot (199)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/f7878173-a197-4d38-9c35-fa26dadd854b)
+
+
+## Checking the deleted Employees details inside the database
+
+
+![Screenshot (200)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/8a9a1087-1927-4b3c-99f1-0545e8144656)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
