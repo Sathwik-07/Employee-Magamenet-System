@@ -96,15 +96,15 @@ Here you can see that employee details has been deleted successfully
 Before connecting to the database we need to have the following details they are
 
 
-### (1) Port number : 3306
+(1) Port number : 3306
 
-### (2) Driver software url : jdbc:mysql://localhost:3306/employees 
+(2) Driver software url : jdbc:mysql://localhost:3306/employees 
 
-### (3) Database user name  : "root"
+(3) Database user name  : "root"
 
-### (4) Data base password  : sathwikdb7@@*
+(4) Data base password  : sathwikdb7@@*
 
-### (5) Database name : employees
+(5) Database name : employees
 
 
 
@@ -112,22 +112,22 @@ Before connecting to the database we need to have the following details they are
 
 
 
-### (1) Loading the driver software
+(1) Loading the driver software
 
-### (2) Creating the connection object
+(2) Creating the connection object
 
-### (3)  Creating the Statement object
+(3)  Creating the Statement object
 
-### (4) Executing the Query Statement
+(4) Executing the Query Statement
 
-### (5) Process the result
+(5) Process the result
 
-### (6) Close the connection
+(6) Close the connection
 
 
-# Rub time Environment
+# Run time Environment
 
-I used Eclipse IDE
+I used Eclipse IDE  for the developement and execution of this project
 
 
 # Jar files
