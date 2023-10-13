@@ -48,6 +48,9 @@ This is a  console based stand alone  application and  it is not a  web applicat
 
 ![Screenshot (196)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/71b76350-fe4a-4c47-a474-84815f2f0019)
 
+Here you can see that employee details are inserted successfully
+
+
 
 # (2) Updating the Employee details
 
@@ -59,7 +62,11 @@ Like this we can update the other employee details also
 
 ### Checking the Updated Employees details inside the database
 
+
 ![Screenshot (198)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/4f7f232d-60b8-4581-bc8c-3e6256fd8497)
+
+Here you can see that employee details has been updated successfully
+
 
 
 # (3) Deleting the Employee details from the databse
@@ -69,11 +76,22 @@ In this project we can delete the employees's details from the database based on
 
 ![Screenshot (199)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/f7878173-a197-4d38-9c35-fa26dadd854b)
 
+Here you can see that employee details has been deleted successfully
+
 
 ## Checking the deleted Employees details inside the database
 
 
 ![Screenshot (200)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/8a9a1087-1927-4b3c-99f1-0545e8144656)
+
+
+# (4) Deleting the Employee details from the databse
+
+
+![Screenshot (201)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/6fafba5e-1aae-4067-82a1-8b01eb7388c9)
+
+
+
 
 
 
