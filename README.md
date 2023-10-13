@@ -33,13 +33,24 @@ This is a  console based stand alone  application and  it is not a  web applicat
 
 # (1) Inserting the Employee details
 
+
+ This options selecting prompt appears  to the user.Based  on the user's wish  he will select his choice.In this case i selected the insert operation.
+ Like this we can enter many employees's  details.
+
+
 ![Screenshot (193)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/1f925a22-5771-49f8-90fb-bd7e1892c7ba)
+
+
+### Checking the Employees details inside the database
 
 
 ![Screenshot (194)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/a8fc19be-075a-4dcd-a0b4-de003013153e)
 
 
 ![Screenshot (196)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/71b76350-fe4a-4c47-a474-84815f2f0019)
+
+
+
 
 
 
