@@ -5,7 +5,6 @@
 This is a  console based stand alone  application and  it is not a  web application.I developed this  application using  Core Java with Java Database Connectivity(JDBC).
 
 # Features
-
 (1) Inserting the employee details 
 (2) Updating the employee details 
 (3) Deleting the employee details 
