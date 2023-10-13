@@ -14,6 +14,7 @@ This is a  console based stand alone  application and  it is not a  web applicat
 
 (4) Displaying the employee details 
 
+
 # Important packages used in this Project
 
 (1) java.sql.Connection;
@@ -28,10 +29,9 @@ This is a  console based stand alone  application and  it is not a  web applicat
 
 (6) java.util.Scanner;
 
-# Working of this Project
-### Output Screenshots
+#   Output Screen Shots
 
-# Inserting the Employee details
+# (1) Inserting the Employee details
 
 ![Screenshot (193)](https://github.com/Sathwik-07/Employee-Management-System/assets/130444732/1f925a22-5771-49f8-90fb-bd7e1892c7ba)
 
