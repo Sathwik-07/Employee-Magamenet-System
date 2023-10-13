@@ -93,9 +93,8 @@ Here you can see that employee details has been deleted successfully
 
 # How I Connected this Java application to database
 
-Before connecting to the database we need to have the following details 
+Before connecting to the database we need to have the following details they are
 
-### In this project Database configuration details are as follows
 
 ### (1) Port number : 3306
 
@@ -105,13 +104,13 @@ Before connecting to the database we need to have the following details
 
 ### (4) Data base password  : sathwikdb7@@*
 
-### (5) Database name : empployees
+### (5) Database name : employees
 
 
-Inside the employees database i   have  a table named employee
+
+# Here are the following  Steps  to be followed
 
 
-Here are the following  Steps  to be followed
 
 ### (1) Loading the driver software
 
